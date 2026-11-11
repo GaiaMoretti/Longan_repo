@@ -1,5 +1,5 @@
 {
-  "title": "Code and data for: Geometric descriptors from depth imaging for estimating longan cluster weight under partial visibility",
+  "title": "Code and data for: Comparison of RGB-D geometric descriptors for longan cluster weight estimation under partial cluster visibility",
   "upload_type": "software",
   "description": "Full pipeline for longan cluster weight estimation from partial RGB-D observations: YOLO instance segmentation, view-level quality control, extraction of geometric descriptors, calibration against measured cluster weight, aggregation analysis and video-based cluster counting.",
   "creators": [

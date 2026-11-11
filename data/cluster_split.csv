@@ -1,0 +1,52 @@
+Cluster_ID,Split
+1,val
+2,val
+3,train
+4,train
+5,not in YOLO dataset
+6,not in YOLO dataset
+7,val
+8,not in YOLO dataset
+9,train
+10,val
+11,not in YOLO dataset
+12,train
+13,not in YOLO dataset
+14,val
+15,train
+16,val
+17,val
+18,not in YOLO dataset
+19,train
+20,val
+21,train
+22,train
+23,not in YOLO dataset
+24,train
+25,not in YOLO dataset
+26,train
+27,not in YOLO dataset
+28,not in YOLO dataset
+29,train
+30,train
+31,not in YOLO dataset
+32,train
+33,not in YOLO dataset
+34,train
+35,not in YOLO dataset
+36,val
+37,not in YOLO dataset
+38,not in YOLO dataset
+39,not in YOLO dataset
+40,train
+41,not in YOLO dataset
+42,train
+43,not in YOLO dataset
+44,not in YOLO dataset
+45,train
+46,not in YOLO dataset
+47,not in YOLO dataset
+48,not in YOLO dataset
+49,not in YOLO dataset
+50,val
+51,not in YOLO dataset

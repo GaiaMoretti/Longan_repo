@@ -3,12 +3,12 @@
 
 Code and data accompanying the article:
 
-Moretti Gaia, Cerasola Vito Aurelio, Landolfo Matteo, Chintakovid Watcharra, Pichakum Aussanee, Phatrapornnant Teera, Pennisi Giuseppina, Gianquinto Giorgio, Orsini Francesco (2026). Comparison of RGB-D geometric descriptors for longan cluster weight estimation under partial cluster visibility. *Frontiers in Horticulture*. [DOI]
+Moretti, G., Cerasola, V. A., Landolfo, M., Chintakovid, W., Pichakum, A., Phatrapornnant, T., Pennisi, G., Gianquinto, G., and Orsini, F. (2026). Comparison of RGB-D geometric descriptors for longan cluster weight estimation under partial cluster visibility. *Frontiers in Horticulture*. [DOI]
 
 The repository contains the full pipeline: YOLO instance segmentation of longan clusters, extraction of geometric descriptors from RGB-D views with view-level quality control, calibration against measured cluster weight, aggregation analysis, and video-based cluster counting.
 
 ## Repository structure
-
+```
 scripts/
   01_make_yolo_dataset.py       Builds the YOLO dataset from the CVAT annotation tasks
   02_train_yolo.py              Trains the segmentation and detection models

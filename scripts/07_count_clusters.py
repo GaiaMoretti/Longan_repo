@@ -25,19 +25,19 @@ MODELS = {
     "seg": r"E:\Dataset CVAT\runs_longan\longan_yolov26s-seg_1280_aug\weights\best.pt",
     "det": r"E:\Dataset CVAT\runs_longan\longan_yolo26s_1280_aug-2\weights\best.pt",
 }
-BAG_DIR = r"D:\Gaia\LONGAN\17-01-26"
+BAG_DIR = r"path/to/bag_files"      # folder with the RealSense .bag sequences
 SEQUENCES = {   # bag file name : ground-truth number of clusters
-    r"D:\Gaia\LONGAN\17-01-26\20260117_035819.bag": 3,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_035836.bag": 3,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_035905.bag": 5,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_040018.bag": 2,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_040131.bag": 2,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_040919.bag": 2,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_040947.bag": 4,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_041012.bag": 2,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_041137.bag": 3,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_041243.bag": 5,
-    r"D:\Gaia\LONGAN\17-01-26\20260117_041319.bag": 3,
+    "20260117_035819.bag": 3,
+    "20260117_035836.bag": 3,
+    "20260117_035905.bag": 5,
+    "20260117_040018.bag": 2,
+    "20260117_040131.bag": 2,
+    "20260117_040919.bag": 2,
+    "20260117_040947.bag": 4,
+    "20260117_041012.bag": 2,
+    "20260117_041137.bag": 3,
+    "20260117_041243.bag": 5,
+    "20260117_041319.bag": 3,
 }
 OUT_DIR = r"counting_results"
 

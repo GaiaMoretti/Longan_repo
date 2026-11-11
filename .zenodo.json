@@ -1,0 +1,18 @@
+{
+  "title": "Code and data for: Geometric descriptors from depth imaging for estimating longan cluster weight under partial visibility",
+  "upload_type": "software",
+  "description": "Full pipeline for longan cluster weight estimation from partial RGB-D observations: YOLO instance segmentation, view-level quality control, extraction of geometric descriptors, calibration against measured cluster weight, aggregation analysis and video-based cluster counting.",
+  "creators": [
+    {"name": "Moretti, Gaia"},
+    {"name": "Cerasola, Vito Aurelio"},
+    {"name": "Landolfo, Matteo"},
+    {"name": "Chintakovid, Watcharra"},
+    {"name": "Pichakum, Aussanee"},
+    {"name": "Phatrapornnant, Teera"},
+    {"name": "Pennisi, Giuseppina"},
+    {"name": "Gianquinto, Giorgio"},
+    {"name": "Orsini, Francesco"}
+  ],
+  "license": "MIT",
+  "keywords": ["longan", "RGB-D", "YOLO", "instance segmentation", "fruit weight estimation", "yield estimation"]
+}

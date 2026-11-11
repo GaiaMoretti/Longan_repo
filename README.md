@@ -3,7 +3,7 @@
 
 Code and data accompanying the article:
 
-> [Authors] (2026). Geometric descriptors from depth imaging for estimating longan cluster weight under partial visibility. *Frontiers in Horticulture*. [DOI]
+Moretti Gaia, Cerasola Vito Aurelio, Landolfo Matteo, Chintakovid Watcharra, Pichakum Aussanee, Phatrapornnant Teera, Pennisi Giuseppina, Gianquinto Giorgio, Orsini Francesco (2026). Comparison of RGB-D geometric descriptors for longan cluster weight estimation under partial cluster visibility. *Frontiers in Horticulture*. [DOI]
 
 The repository contains the full pipeline: YOLO instance segmentation of longan clusters, extraction of geometric descriptors from RGB-D views with view-level quality control, calibration against measured cluster weight, aggregation analysis, and video-based cluster counting.
 

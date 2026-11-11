@@ -1,0 +1,13 @@
+ultralytics==8.4.152
+torch>=2.5          # install the CUDA build from pytorch.org if a GPU is available
+opencv-python
+numpy
+pandas
+openpyxl
+scipy
+scikit-learn
+statsmodels
+matplotlib
+pyyaml
+pyrealsense2        # only for the counting scripts (07, 08)
+lap                 # required by the Ultralytics ByteTrack tracker
